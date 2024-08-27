@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{6E0C5DCE-DDAC-CA2C-034F-45292D3E70AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E0C5DCE-DDAC-CA2C-034F-45292D3E70AC}|Assembly-CSharp.csproj|c:\\users\\shahzad\\documents\\github\\endless-runner\\endless runner\\assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E0C5DCE-DDAC-CA2C-034F-45292D3E70AC}|Assembly-CSharp.csproj|C:\\Users\\ShahzaD\\Documents\\GitHub\\Endless-Runner\\Endless Runner\\assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E0C5DCE-DDAC-CA2C-034F-45292D3E70AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E0C5DCE-DDAC-CA2C-034F-45292D3E70AC}|Assembly-CSharp.csproj|c:\\users\\shahzad\\documents\\github\\endless-runner\\endless runner\\assets\\scripts\\moveleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E0C5DCE-DDAC-CA2C-034F-45292D3E70AC}|Assembly-CSharp.csproj|C:\\Users\\ShahzaD\\Documents\\GitHub\\Endless-Runner\\Endless Runner\\assets\\scripts\\moveleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E0C5DCE-DDAC-CA2C-034F-45292D3E70AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E0C5DCE-DDAC-CA2C-034F-45292D3E70AC}|Assembly-CSharp.csproj|c:\\users\\shahzad\\documents\\github\\endless-runner\\endless runner\\assets\\scripts\\backgroundmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E0C5DCE-DDAC-CA2C-034F-45292D3E70AC}|Assembly-CSharp.csproj|C:\\Users\\ShahzaD\\Documents\\GitHub\\Endless-Runner\\Endless Runner\\assets\\scripts\\backgroundmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E0C5DCE-DDAC-CA2C-034F-45292D3E70AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,8 +38,7 @@
               "RelativeToolTip": "Assets\\Scripts\\SpawnManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T06:35:03.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T06:35:03.29Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "Assets\\Scripts\\BackgroundMover.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T06:33:57.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T06:33:57.928Z"
             },
             {
               "$type": "Document",
@@ -62,7 +60,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "C:\\Users\\ShahzaD\\Documents\\GitHub\\Endless-Runner\\Endless Runner\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCgAAAAAAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAIAwwDkAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T06:21:48.732Z",
               "EditorCaption": ""
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Assets\\Scripts\\MoveLeft.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwBQAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T06:24:46.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T06:24:46.328Z"
             }
           ]
         }
